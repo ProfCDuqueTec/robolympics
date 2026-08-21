@@ -28,7 +28,7 @@ Configuración requerida una sola vez en GitHub:
 2. En `Build and deployment`, seleccionar `Deploy from a branch`.
 3. Seleccionar la rama `setup/estructura-inicial`.
 4. Seleccionar la carpeta `/(root)`.
-5. Guardar.
+5. Pulsar `Save`.
 
 La URL esperada del sitio es:
 
